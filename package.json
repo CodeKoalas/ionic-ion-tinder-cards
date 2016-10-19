@@ -7,10 +7,6 @@
     "Max Lynch <max@drifty.com>"
   ],
   "description": "A tinder-style card UI for Ionic apps",
-  "main": [
-    "ionic.tdcards.css",
-    "ionic.tdcards.js"
-  ],
   "keywords": [
     "mobile",
     "html5",
